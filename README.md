@@ -4,5 +4,9 @@
 date:  03/20/17
 
 description: 
-Github Training - Part 1 
+I love Stumptown Coffee
+I love Longhorne
+I love Intelligentia 
+
+
 
